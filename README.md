@@ -11,10 +11,10 @@ Consumer fintech products must balance simple peer-to-peer transfers with regula
 ## Technology Stack
 
 **Mobile:**  
-React Native 0.76, React 18, TypeScript, Redux Toolkit, React Navigation, Stripe React Native, Firebase Cloud Messaging, Axios, AsyncStorage
+React Native, React, TypeScript, Redux Toolkit, React Navigation, Stripe React Native, Firebase Cloud Messaging
 
 **Backend:**  
-Laravel 11, PHP 8.2, Laravel Sanctum, PayPal, Braintree, Paystack, Stripe
+Laravel 11, PHP 8.2, Laravel Sanctum, PayPal, Paystack, Stripe
 
 ## The Client
 
